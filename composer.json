@@ -1,0 +1,28 @@
+{
+    "name": "gtuk/php-lepton",
+    "author": "Florian Lambart",
+    "description": "A php wrapper library for Dropbox Lepton compression tool",
+    "type": "library",
+    "keywords": [
+        "lepton",
+        "dropbox",
+        "jpeg",
+        "jpg",
+        "lep",
+        "compression",
+        "decompression",
+        "php"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-0": {
+            "PHPLepton": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.8"
+    }
+}
