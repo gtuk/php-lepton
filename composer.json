@@ -13,6 +13,7 @@
         "decompression",
         "php"
     ],
+    "minimum-stability": "dev",
     "license": "MIT",
     "require": {
         "php": ">=5.5"
